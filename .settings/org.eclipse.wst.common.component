@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="validando-formulario-jsf-javascript">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="validando-formulario-jsf-javascript"/>
+        <property name="java-output-path" value="/validando-formulario-jsf-javascript/build/classes"/>
+    </wb-module>
+</project-modules>
